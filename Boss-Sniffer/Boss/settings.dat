@@ -1,0 +1,2 @@
+WORKERS = me:127.0.0.1
+BLACKLIST = 1.2.3.4:facebook,95.1.2.2:twitter
