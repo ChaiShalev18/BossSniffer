@@ -1,4 +1,4 @@
-# Employee Monitoring Web Application
+# Boss Sniffer
 
 This is a web application built on a client-server architecture that allows an agent (client) to inform a boss (server) about the browsing activities of employees within a company. The application utilizes Python libraries such as Scapy, Socket, Requests, and Multi-threading for efficient and effective monitoring.
 
